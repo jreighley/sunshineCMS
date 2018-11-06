@@ -13,7 +13,11 @@ const Navbar = () => (
           </figure>
         </Link>
       </div>
-      <div className="navbar-start">
+        <div className="navbar-start">
+        <Link className="navbar-item" to="/welcome">
+          Welcome
+        </Link>
+
         <Link className="navbar-item" to="/about">
           About
         </Link>
