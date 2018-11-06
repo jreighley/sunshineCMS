@@ -1,6 +1,8 @@
+---
+templateKey: welcome-page
+title: Welcome
+---
 # Welcome to Sunshine Solutions!
-
-
 
 
 # **Data Collection & Storage**
