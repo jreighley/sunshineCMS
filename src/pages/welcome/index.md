@@ -29,10 +29,6 @@ Each business has different needs and questions of their data, our experts learn
 
 ## **Marketplace Consulting**
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
 Manufacturers and brands are increasingly becoming retailers themselves our team is equipped with years of marketplace selling experience. Amazon isn’t the only game in town and we’re to help you succeed and answer your questions in all facets of e-commerce.
 -   If you’re just getting started on Amazon we can help you learn to navigate the basics of Seller Central or discuss some more in depth topics
 	-   Inventory Management & Optimization
